@@ -66,3 +66,8 @@ Run with Live Server in VS Code.
 - 👤 User Authentication
 
 ---
+## 👩‍💻 Author
+
+**Suchitra Santra**
+
+GitHub: https://github.com/Suchitra-Santra

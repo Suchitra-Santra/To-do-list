@@ -7,3 +7,12 @@ A clean and responsive To-Do List web application that helps users organize and 
 🔗 **Vercel Deployment:** https://your-vercel-app-link.vercel.app
 
 🔗 **GitHub Repository:** https://github.com/Suchitra-Santra/To-do-list
+
+## 📌 Features
+
+- ✅ Add new tasks
+- ✏️ Edit existing tasks
+- 🗑️ Delete tasks
+- ✔️ Mark tasks as completed
+- 📱 Responsive design
+- ⚡ Fast and user-friendly interface

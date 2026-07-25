@@ -23,4 +23,5 @@ A clean and responsive To-Do List web application that helps users organize and 
 - CSS3
 - JavaScript (ES6)
 - Vercel (Deployment)
-- Git & GitHub
+- Git 
+- GitHub

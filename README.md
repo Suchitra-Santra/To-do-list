@@ -16,3 +16,11 @@ A clean and responsive To-Do List web application that helps users organize and 
 - ✔️ Mark tasks as completed
 - 📱 Responsive design
 - ⚡ Fast and user-friendly interface
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Vercel (Deployment)
+- Git & GitHub

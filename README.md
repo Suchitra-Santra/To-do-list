@@ -34,3 +34,24 @@ To-do-list/
 │── style.css
 │── script.js
 └── README.md
+
+
+## 💻 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/Suchitra-Santra/To-do-list.git
+```
+
+Navigate to the project folder
+
+```bash
+cd To-do-list
+```
+
+Open `index.html` in your browser
+
+OR
+
+Run with Live Server in VS Code.

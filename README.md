@@ -25,3 +25,12 @@ A clean and responsive To-Do List web application that helps users organize and 
 - Vercel (Deployment)
 - Git 
 - GitHub
+
+## 📂 Project Structure
+
+```
+To-do-list/
+│── index.html
+│── style.css
+│── script.js
+└── README.md

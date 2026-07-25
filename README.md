@@ -63,11 +63,17 @@ Run with Live Server in VS Code.
 - 🔍 Search Tasks
 - 🏷️ Task Categories
 - ☁️ Database Integration
-- 👤 User Authentication
-
+- 👤 User Authenticatio
 ---
+
 ## 👩‍💻 Author
 
 **Suchitra Santra**
 
 GitHub: https://github.com/Suchitra-Santra
+
+## ⭐ Support
+
+If you found this project helpful, please consider giving it a ⭐ on GitHub.
+
+---

@@ -55,3 +55,14 @@ Open `index.html` in your browser
 OR
 
 Run with Live Server in VS Code.
+
+## 🎯 Future Improvements
+
+- 🌙 Dark Mode
+- 📅 Due Date Feature
+- 🔍 Search Tasks
+- 🏷️ Task Categories
+- ☁️ Database Integration
+- 👤 User Authentication
+
+---

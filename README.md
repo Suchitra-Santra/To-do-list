@@ -80,6 +80,17 @@ OR
 
 Run with Live Server in VS Code.
 
+---
+
+## 🚀 Deployment
+
+This project is deployed on **Vercel**.
+
+Live URL:
+https://your-vercel-app-link.vercel.app
+
+---
+
 ## 🎯 Future Improvements
 
 - 🌙 Dark Mode

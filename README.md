@@ -25,6 +25,26 @@ A clean and responsive To-Do List web application that helps users organize and 
 - Vercel (Deployment)
 - Git 
 - GitHub
+---
+
+## 📸 Screenshots
+
+### Home Page
+
+<img width="1920" height="1080" alt="Screenshot (252)" src="https://github.com/user-attachments/assets/4c4683e9-1c81-4ca5-b89e-759fae4fddd5" />
+
+
+### Adding a Task
+
+<img width="1920" height="1080" alt="Screenshot (253)" src="https://github.com/user-attachments/assets/ec70aed5-a851-4c35-ae23-21b33b550575" />
+
+
+### Completed Tasks
+
+<img width="1920" height="1080" alt="Screenshot (254)" src="https://github.com/user-attachments/assets/49138ac8-beed-4b27-acc3-e2cb165b2c08" />
+
+
+---
 
 ## 📂 Project Structure
 

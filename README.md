@@ -37,7 +37,8 @@ A clean and responsive To-Do List web application that helps users organize and 
 
 ### Adding a Task
 
-<img width="1920" height="1080" alt="Screenshot (253)" src="https://github.com/user-attachments/assets/ec70aed5-a851-4c35-ae23-21b33b550575" />
+<img width="1826" height="967" alt="Screenshot (253)" src="https://github.com/user-attachments/assets/54cf8456-744c-43f7-b427-9b0e22a85260" />
+
 
 
 ### Completed Tasks
